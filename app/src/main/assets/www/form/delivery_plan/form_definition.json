@@ -9,6 +9,12 @@
                 "shouldLoadValue": true
             },
             {
+        "name": "ancNumber",
+        "shouldLoadValue": true,
+        "bind": "/model/instance/Delivery_Plan_EngKan/anc_reg_num",
+        "source": "mother.ancNumber"
+      },
+      {
                 "name": "ecId",
                 "shouldLoadValue": true,
                 "source": "mother.eligible_couple.id"
