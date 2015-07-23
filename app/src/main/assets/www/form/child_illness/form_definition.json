@@ -13,6 +13,17 @@
                 "bind": "/model/instance/Child_Sick_Visit_EngKan/child_sickness_management_group/sick_visit_date"
             },
             {
+        "name": "ecId",
+        "shouldLoadValue": true,
+        "source": "child.mother.eligible_couple.id"
+      },
+      {
+        "name": "motherName",
+        "shouldLoadValue": true,
+        "bind": "/model/instance/Child_Sick_Visit_EngKan/mother_name",
+        "source": "child.mother.eligible_couple.wifeName"
+      },
+      {
                 "name": "dateOfBirth",
                 "bind": "/model/instance/Child_Sick_Visit_EngKan/child_sickness_management_group/case_child_birth_date",
                 "shouldLoadValue": true
@@ -65,6 +76,20 @@
                 "name": "dateOfBirth",
                 "bind": "/model/instance/Child_Sick_Visit_EngKan/child_date_of_birth",
                 "shouldLoadValue": true
+      },
+      {
+        "name": "isConsultDocNoReason",
+        "bind": "/model/instance/Child_Sick_Visit_EngKan/is_consult_doctor_no_reason"
+      },
+      {
+        "name": "isConsultDoctor",
+        "shouldLoadValue": true,
+        "bind": "/model/instance/Child_Sick_Visit_EngKan/is_consult_doctor"
+      },
+      {
+        "name": "docPocInfo",
+        "value": "",
+        "bind": "/model/instance/Child_Sick_Visit_EngKan/poc_info"
             }
         ]
     }

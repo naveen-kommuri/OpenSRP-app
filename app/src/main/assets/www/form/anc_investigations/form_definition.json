@@ -9,6 +9,12 @@
                 "shouldLoadValue": true
             },
             {
+        "name": "ancNumber",
+        "shouldLoadValue": true,
+        "bind": "/model/instance/ANC_Investigations_EngKan/anc_reg_num",
+        "source": "mother.ancNumber"
+      },
+      {
                 "name": "testDate",
                 "bind": "/model/instance/ANC_Investigations_EngKan/test_date"
             },
@@ -39,6 +45,26 @@
             {
                 "name": "submissionDate",
                 "bind": "/model/instance/ANC_Investigations_EngKan/today"
+      },
+      {
+        "name": "bpSystolic",
+        "bind": "/model/instance/ANC_Investigations_EngKan/bp_systolic"
+      },
+      {
+        "name": "bpDiastolic",
+        "bind": "/model/instance/ANC_Investigations_EngKan/bp_diastolic"
+      },
+      {
+        "name": "temperature",
+        "bind": "/model/instance/ANC_Investigations_EngKan/temperature"
+      },
+      {
+        "name": "fetalData",
+        "bind": "/model/instance/ANC_Investigations_EngKan/fetal_data"
+      },
+      {
+        "name": "bloodGlucoseData",
+        "bind": "/model/instance/ANC_Investigations_EngKan/blood_glucose_data"
             }
         ]
     }

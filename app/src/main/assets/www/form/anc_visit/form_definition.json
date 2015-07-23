@@ -20,6 +20,12 @@
                 "source": "mother.eligible_couple.wifeName"
             },
             {
+                "name": "ancNumber",
+                "shouldLoadValue": true,
+                "bind": "/model/instance/ANC_Visit_EngKan/anc_reg_num",
+                "source": "mother.ancNumber"
+            },
+            {
                 "name": "ancVisitNumber",
                 "bind": "/model/instance/ANC_Visit_EngKan/this_anc_number"
             },
@@ -49,10 +55,6 @@
                 "bind": "/model/instance/ANC_Visit_EngKan/jaundice"
             },
             {
-                "name": "convulsions",
-                "bind": "/model/instance/ANC_Visit_EngKan/convulsions"
-            },
-            {
                 "name": "vitalsTaken",
                 "shouldLoadValue": true,
                 "bind": "/model/instance/ANC_Visit_EngKan/vitals_taken"
@@ -63,13 +65,13 @@
                 "source": "mother.bpSystolic"
             },
             {
-                "name": "bpSystolic",
-                "bind": "/model/instance/ANC_Visit_EngKan/bp_systolic"
-            },
-            {
                 "name": "previousBpDiastolic",
                 "shouldLoadValue": true,
                 "source": "mother.bpDiastolic"
+            },
+            {
+                "name": "bpSystolic",
+                "bind": "/model/instance/ANC_Visit_EngKan/bp_systolic"
             },
             {
                 "name": "bpDiastolic",
@@ -84,9 +86,21 @@
                 "bind": "/model/instance/ANC_Visit_EngKan/temperature"
             },
             {
+                "name": "fetalData",
+                "bind": "/model/instance/ANC_Visit_EngKan/fetal_data"
+            },
+            {
+                "name": "bloodGlucoseData",
+                "bind": "/model/instance/ANC_Visit_EngKan/blood_glucose_data"
+            },
+            {
                 "name": "weight",
                 "shouldLoadValue": true,
                 "bind": "/model/instance/ANC_Visit_EngKan/weight_group/case_weight"
+            },
+            {
+                "name": "pstechoscopeData",
+                "bind": "/model/instance/ANC_Visit_EngKan/pstechoscope_data"
             },
             {
                 "name": "weight",
@@ -167,6 +181,10 @@
                 "bind": "/model/instance/ANC_Visit_EngKan/case_is_high_risk_till_pnc_close"
             },
             {
+                "name": "isConsultDocNoReason",
+                "bind": "/model/instance/ANC_Visit_EngKan/reason_for_no"
+            },
+            {
                 "name": "highRiskTillPNCCloseReason",
                 "shouldLoadValue": true,
                 "bind": "/model/instance/ANC_Visit_EngKan/case_is_high_risk_till_pnc_close_reason"
@@ -188,6 +206,16 @@
             {
                 "name": "submissionDate",
                 "bind": "/model/instance/ANC_Visit_EngKan/today"
+            },
+            {
+                "name": "isConsultDoctor",
+                "shouldLoadValue": true,
+                "bind": "/model/instance/ANC_Visit_EngKan/is_consult_doctor"
+            },
+            {
+                "name": "docPocInfo",
+                "value": "",
+                "bind": "/model/instance/ANC_Visit_EngKan/poc_info"
             }
         ]
     }

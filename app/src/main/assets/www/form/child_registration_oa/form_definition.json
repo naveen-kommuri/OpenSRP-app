@@ -38,6 +38,9 @@
                 "source": "child.mother.eligible_couple.householdNumber"
             },
             {
+        "name": "religion"
+      },
+      {
                 "name": "householdAddress",
                 "bind": "/model/instance/Child_Registration_EngKan/hh_address",
                 "source": "child.mother.eligible_couple.householdAddress"
