@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/naveen/Documents/Project/app/src/main/res/values-kn/strings.xml -->
+    <!-- From: file:/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/src/main/res/values-kn/strings.xml -->
     <eat-comment/>
-    <string name="app_name">Dristhi</string>
+    <string name="app_name">Telemedicine</string>
     <string name="home_anc_label">ಎಎನ್ ಸಿ</string>
     <string name="home_child_label">ಮಗು</string>
     <string name="home_ec_label">ಅರ್ಹ ದಂಪತಿಗಳು</string>
@@ -14,7 +14,5 @@
     <string name="login_failed_dialog_message">Please check the credentials</string>
     <string name="login_failed_dialog_title">Log in failed</string>
     <string name="login_text">ಲಾಗಿನ್</string>
-    <string name="passwordEditText">ಬಳಕೆದಾರರ ಪಾಸ್ವರ್ಡ್</string>
     <string name="spacer">spacer</string>
-    <string name="userNameEditText">ಬಳಕೆದಾರರ ಐಡಿ</string>
 </resources>

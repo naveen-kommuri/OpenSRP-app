@@ -159,4 +159,4 @@
             android:src="@drawable/separator"
             android:scaleType="fitXY"
             android:layout_toRightOf="@+id/service_mode_selection"/>
-</RelativeLayout><!-- From: file:/home/naveen/Documents/Project/app/src/main/res/layout/smart_register_nav_bar.xml -->
+</RelativeLayout><!-- From: file:/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/src/main/res/layout/smart_register_nav_bar.xml -->

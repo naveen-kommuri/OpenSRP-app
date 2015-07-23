@@ -2,25 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/home/naveen/Documents/Project/app/libs/Sonoline-S_SDK v1.0.jar"
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="23.0.0 rc2"
-        sha1="ab05d9c87ac1ec7073dbe4e9a5c2cd1e0898edcd">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/Sonoline-S_SDK v1.0-76d1581de992f81ffd1b1d3d837c02b135169975.jar" />
-    </item>
-    <item
-        jar="/home/naveen/android-sdks/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-37f780d84c2f6e8b268f4e6c48365b82fffff469.jar" />
-    </item>
-    <item
-        jar="/home/naveen/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.2/1f96456ca233dec780aa224bff076d8e8bca3908/gson-2.2.2.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="1f96456ca233dec780aa224bff076d8e8bca3908">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/gson-2.2.2-2ce8862367547b79b475e33910b2a48e232e1368.jar" />
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-8d523b6a1d72f46bba2c7dd0851107702e84e93c.jar" />
     </item>
     <item
         jar="/home/naveen/Documents/Project/app/libs/rhino-1.7R4.jar"
@@ -30,53 +16,18 @@
         <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/rhino-1.7R4-acf3c959b334daf41ca5f711ca543c7e67eea0ce.jar" />
     </item>
     <item
-        jar="/home/naveen/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jar="/home/naveen/Documents/Project/app/libs/jackson-all-1.6.1.jar"
         jumboMode="false"
         revision="23.0.0 rc2"
-        sha1="cce0823396aa693798f8882e64213b1772032b09">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/guava-18.0-0d166708e14e17819c9a4c2dbcb173f892d7f222.jar" />
+        sha1="592efa2290710830f989b82c198fcee17b86d18a">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/jackson-all-1.6.1-5f86b4e4320f0473a9963855398c5d25158ad09f.jar" />
     </item>
     <item
-        jar="/home/naveen/Documents/Project/app/libs/CMSSXT_SDK v1.2.jar"
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/libs/junit.jar"
         jumboMode="false"
         revision="23.0.0 rc2"
-        sha1="941faf3895f12d7a1fe2398ca75764676dddad92">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/CMSSXT_SDK v1.2-4b60666ba4ed036e4ce7b759508a8071dec1d794.jar" />
-    </item>
-    <item
-        jar="/home/naveen/Documents/Project/app/libs/EarTemperature_SDK.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="5debef3ca669bbbb748f16f8f8db24029111d011">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/EarTemperature_SDK-09269037ef2024109c4b4c325833b891f1c4a789.jar" />
-    </item>
-    <item
-        jar="/home/naveen/Documents/Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/classes-86bd51df3e579e63b7017b5797bab6b50ec436e4.jar" />
-    </item>
-    <item
-        jar="/home/naveen/Documents/Project/app/libs/project_cms50dj_jar.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="6c7b1b1ed01fdf3af5470a6a265a5b10461acb35">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/project_cms50dj_jar-d37a7f7e9c4d79f42ee871dc3ad580556d3ee1b9.jar" />
-    </item>
-    <item
-        jar="/home/naveen/Documents/Project/app/libs/sqlcipher-2.2.0.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="00f02373da141e608b4a0c94cfe508de3b997fac">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/sqlcipher-2.2.0-02069dc1a32223e6e6e09fa161704bdb4509175c.jar" />
-    </item>
-    <item
-        jar="/home/naveen/Documents/Project/app/libs/prettytime-1.0.8.final.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="375ffaa7ed63d563978dc9c0a835f719e8088501">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/prettytime-1.0.8.final-78a2ab35cb4eacbf0802bfc4068bb5e9a3b997e2.jar" />
+        sha1="543b0ae86f3e65fbf14ecac169d0c87cbb622e71">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/junit-5dd1f7793bc8676c46ef07660ec8717618536e88.jar" />
     </item>
     <item
         jar="/home/naveen/Documents/Project/app/libs/commons-codec-1.6.jar"
@@ -86,53 +37,18 @@
         <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/commons-codec-1.6-682afa473cb31edaa94df60553c825ba1edc198e.jar" />
     </item>
     <item
-        jar="/home/naveen/Documents/Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/libs/project_cms50dj_jar.jar"
         jumboMode="false"
         revision="23.0.0 rc2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-af7d6abd5014682266df9c6bf9702410dcf53766.jar" />
+        sha1="6c7b1b1ed01fdf3af5470a6a265a5b10461acb35">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/project_cms50dj_jar-75558a95be1fb760c1656f8126c716577146a95f.jar" />
     </item>
     <item
-        jar="/home/naveen/Documents/Project/app/libs/acra-4.5.0.jar"
+        jar="/home/naveen/Documents/Project/app/libs/CMSSXT_SDK v1.2.jar"
         jumboMode="false"
         revision="23.0.0 rc2"
-        sha1="44a5eb946e0d83eed4a0128d877ca1fd8168b83a">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/acra-4.5.0-a60348b21493e5f92fdeb7613643a1908d4250d0.jar" />
-    </item>
-    <item
-        jar="/home/naveen/Documents/Project/app/libs/jackson-all-1.6.1.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="592efa2290710830f989b82c198fcee17b86d18a">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/jackson-all-1.6.1-5f86b4e4320f0473a9963855398c5d25158ad09f.jar" />
-    </item>
-    <item
-        jar="/home/naveen/Documents/Project/app/libs/commons-lang3-3.1.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/commons-lang3-3.1-bb7a08929a1a0c5f8dd7aed8d4c9da6d259208ce.jar" />
-    </item>
-    <item
-        jar="/home/naveen/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.0/752c0fe8a5b2d6704c9d9d6f06d9abdcacf4045d/joda-time-2.0.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="752c0fe8a5b2d6704c9d9d6f06d9abdcacf4045d">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/joda-time-2.0-29049f6b23e9cd03efd87ef223d18bd15050697c.jar" />
-    </item>
-    <item
-        jar="/home/naveen/Documents/Project/app/libs/mockito-all-1.9.5.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="79a8984096fc6591c1e3690e07d41be506356fa5">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/mockito-all-1.9.5-88d6a50519a37dab9c4c5a65254b3fe3d286a093.jar" />
-    </item>
-    <item
-        jar="/home/naveen/Documents/Project/app/libs/CONTEC08A_SDK v1.6.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="7caf65fd12bf712c064b8e2a082e799ac9b65bcf">
-        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/CONTEC08A_SDK v1.6-fb24ea80995823bd903ce38be298609bd2ef204a.jar" />
+        sha1="941faf3895f12d7a1fe2398ca75764676dddad92">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/CMSSXT_SDK v1.2-4b60666ba4ed036e4ce7b759508a8071dec1d794.jar" />
     </item>
     <item
         jar="/home/naveen/Documents/Project/app/libs/commons-io-2.1.jar"
@@ -142,11 +58,214 @@
         <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/commons-io-2.1-f523ab805a4312acb6d9ffec5b7ae292df6d7d2f.jar" />
     </item>
     <item
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/libs/rhino-1.7R4.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="e982f2136574b9a423186fbaeaaa98dc3e5a5288">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/rhino-1.7R4-0c6e0ee48a9fe4f355f656d0c9e1cc4ad39a705b.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project/app/libs/Sonoline-S_SDK v1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="ab05d9c87ac1ec7073dbe4e9a5c2cd1e0898edcd">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/Sonoline-S_SDK v1.0-76d1581de992f81ffd1b1d3d837c02b135169975.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/libs/acra-4.5.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="44a5eb946e0d83eed4a0128d877ca1fd8168b83a">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/acra-4.5.0-7ce9226e0b8722a6c89b25af1b256aec362f11f9.jar" />
+    </item>
+    <item
+        jar="/home/naveen/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/guava-18.0-0d166708e14e17819c9a4c2dbcb173f892d7f222.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project/app/libs/prettytime-1.0.8.final.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="375ffaa7ed63d563978dc9c0a835f719e8088501">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/prettytime-1.0.8.final-78a2ab35cb4eacbf0802bfc4068bb5e9a3b997e2.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project/app/libs/mockito-all-1.9.5.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="79a8984096fc6591c1e3690e07d41be506356fa5">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/mockito-all-1.9.5-88d6a50519a37dab9c4c5a65254b3fe3d286a093.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/classes-86bd51df3e579e63b7017b5797bab6b50ec436e4.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/libs/mockito-all-1.9.5.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="79a8984096fc6591c1e3690e07d41be506356fa5">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/mockito-all-1.9.5-dc31aed400960c2cfa6b354281484ed446ec40ca.jar" />
+    </item>
+    <item
         jar="/home/naveen/Documents/Project/app/libs/junit.jar"
         jumboMode="false"
         revision="23.0.0 rc2"
         sha1="543b0ae86f3e65fbf14ecac169d0c87cbb622e71">
         <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/junit-f8c5d1b1b843157ac6878f71328a0da42a9852fc.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/libs/prettytime-1.0.8.final.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="375ffaa7ed63d563978dc9c0a835f719e8088501">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/prettytime-1.0.8.final-e4de8686c2db61725341800ad5d99a4a661c0cbb.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/libs/commons-lang3-3.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/commons-lang3-3.1-4cd6fa4cb83385db542e34cd6a069462bf3142e8.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/libs/CMSSXT_SDK v1.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="941faf3895f12d7a1fe2398ca75764676dddad92">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/CMSSXT_SDK v1.2-668867c3284c9ae57c8b9308b560ce58d3265f8f.jar" />
+    </item>
+    <item
+        jar="/home/naveen/android-sdks/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-37f780d84c2f6e8b268f4e6c48365b82fffff469.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project/app/libs/commons-lang3-3.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/commons-lang3-3.1-bb7a08929a1a0c5f8dd7aed8d4c9da6d259208ce.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/libs/commons-codec-1.6.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="b7f0fc8f61ecadeb3695f0b9464755eee44374d4">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/commons-codec-1.6-c96670efb002500231693ac28e1afa8a5d3522c2.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project/app/libs/project_cms50dj_jar.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="6c7b1b1ed01fdf3af5470a6a265a5b10461acb35">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/project_cms50dj_jar-d37a7f7e9c4d79f42ee871dc3ad580556d3ee1b9.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/libs/commons-io-2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="fd51f906669f49a4ffd06650666c3b8147a6106e">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/commons-io-2.1-7d55684509c0797b300a0e1f654252f02fde06ba.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project/app/libs/sqlcipher-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="00f02373da141e608b4a0c94cfe508de3b997fac">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/sqlcipher-2.2.0-02069dc1a32223e6e6e09fa161704bdb4509175c.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/libs/EarTemperature_SDK.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="5debef3ca669bbbb748f16f8f8db24029111d011">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/EarTemperature_SDK-530d28c59f5deeb193de0b00ea507663334fae6a.jar" />
+    </item>
+    <item
+        jar="/home/naveen/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.0/752c0fe8a5b2d6704c9d9d6f06d9abdcacf4045d/joda-time-2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="752c0fe8a5b2d6704c9d9d6f06d9abdcacf4045d">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/joda-time-2.0-29049f6b23e9cd03efd87ef223d18bd15050697c.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project/app/libs/EarTemperature_SDK.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="5debef3ca669bbbb748f16f8f8db24029111d011">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/EarTemperature_SDK-09269037ef2024109c4b4c325833b891f1c4a789.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project/app/libs/acra-4.5.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="44a5eb946e0d83eed4a0128d877ca1fd8168b83a">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/acra-4.5.0-a60348b21493e5f92fdeb7613643a1908d4250d0.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/libs/sqlcipher-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="00f02373da141e608b4a0c94cfe508de3b997fac">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/sqlcipher-2.2.0-a9e12de040e729a89bfbcf4f67476e7599cfc51e.jar" />
+    </item>
+    <item
+        jar="/home/naveen/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.2/1f96456ca233dec780aa224bff076d8e8bca3908/gson-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/gson-2.2.2-2ce8862367547b79b475e33910b2a48e232e1368.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/libs/Sonoline-S_SDK v1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="ab05d9c87ac1ec7073dbe4e9a5c2cd1e0898edcd">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/Sonoline-S_SDK v1.0-79e0ef3f9c918a686ee21baebe001373aed121fb.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/classes-0fb9033b1cd1fb55e1ef0084d27b82553202f741.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/libs/jackson-all-1.6.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="592efa2290710830f989b82c198fcee17b86d18a">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/jackson-all-1.6.1-bde8d3d9bc5c3ecc5ac50c4be12980ca70b2db0c.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project/app/libs/CONTEC08A_SDK v1.6.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="7caf65fd12bf712c064b8e2a082e799ac9b65bcf">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/CONTEC08A_SDK v1.6-fb24ea80995823bd903ce38be298609bd2ef204a.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/naveen/Documents/Project/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-af7d6abd5014682266df9c6bf9702410dcf53766.jar" />
+    </item>
+    <item
+        jar="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/libs/CONTEC08A_SDK v1.6.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="7caf65fd12bf712c064b8e2a082e799ac9b65bcf">
+        <dex dex="/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/build/intermediates/pre-dexed/debug/CONTEC08A_SDK v1.6-bcb56efcadee34a87a5fb9d1b18f5ffc4b65627b.jar" />
     </item>
 
 </items>

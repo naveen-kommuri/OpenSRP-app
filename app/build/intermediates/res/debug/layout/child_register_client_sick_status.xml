@@ -44,4 +44,4 @@
                 android:layout_toRightOf="@id/lbl_illness_date"
                 style="@style/CustomFontTextViewStyle.ListView.Normal.TwoLine"/>
     </RelativeLayout>
-</FrameLayout><!-- From: file:/home/naveen/Documents/Project/app/src/main/res/layout/child_register_client_sick_status.xml -->
+</FrameLayout><!-- From: file:/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/src/main/res/layout/child_register_client_sick_status.xml -->

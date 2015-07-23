@@ -13,4 +13,4 @@
             <gradient android:angle="270" android:startColor="#dedede" android:endColor="#c4c4c4" android:type="linear" />
         </shape>
     </item>
-</selector><!-- From: file:/home/naveen/Documents/Project/app/src/main/res/drawable/login_button.xml -->
+</selector><!-- From: file:/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/src/main/res/drawable/login_button.xml -->

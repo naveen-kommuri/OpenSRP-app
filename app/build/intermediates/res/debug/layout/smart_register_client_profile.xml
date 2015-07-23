@@ -117,4 +117,4 @@
             android:padding="5dp"
             style="@style/CustomFontTextViewStyle.ListView.Normal"/>
 
-</org.ei.telemedicine.view.customControls.ClientProfileView><!-- From: file:/home/naveen/Documents/Project/app/src/main/res/layout/smart_register_client_profile.xml -->
+</org.ei.telemedicine.view.customControls.ClientProfileView><!-- From: file:/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/src/main/res/layout/smart_register_client_profile.xml -->

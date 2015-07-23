@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/naveen/Documents/Project/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="alert_complete_green">#25aa4a</color>
     <color name="alert_in_progress_blue">#389cc8</color>
@@ -27,7 +27,7 @@
     <color name="transparent_blue_for_edit_button">#bb389cc8</color>
     <color name="transparent_gray">#44ffffff</color>
     <declare-styleable name="org.ei.drishti.view.customControls.CustomFontTextView"><attr format="enum" name="fontVariant"><enum name="thin" value="0"/><enum name="light" value="1"/><enum name="regular" value="2"/><enum name="medium" value="3"/><enum name="bold" value="4"/><enum name="black" value="5"/></attr></declare-styleable>
-    <!-- From: file:/home/naveen/Documents/Project/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="anc_list_delivery_plan_service_mode_tick_view_height">25dp</dimen>
     <dimen name="anc_list_delivery_plan_service_mode_tick_view_width">25dp</dimen>
@@ -85,7 +85,7 @@
     <dimen name="smart_register_nav_bar_separator">3dp</dimen>
     <dimen name="smart_register_status_bar_height">30dp</dimen>
     <dimen name="wife_name_padding_right_due_to_age_display">30dp</dimen>
-    <!-- From: file:/home/naveen/Documents/Project/app/src/main/res/values/integer.xml -->
+    <!-- From: file:/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/src/main/res/values/integer.xml -->
     <eat-comment/>
     <integer name="anc_list_anc_visit_service_mode_anc_visit_1_view_weight">13</integer>
     <integer name="anc_list_anc_visit_service_mode_anc_visit_2_view_weight">13</integer>
@@ -166,7 +166,7 @@
     <integer name="pnc_list_thayi_number_view_weight">12</integer>
     <integer name="pnc_list_visit_alerts_button_holder_weight">7</integer>
     <integer name="pnc_list_visit_alerts_weight">9</integer>
-    <!-- From: file:/home/naveen/Documents/Project/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="anc_label">ANC:</string>
     <string name="anc_register_title_in_short">ANC:</string>
@@ -177,7 +177,7 @@
     <string name="anc_service_mode_ifa_tablets">" Tablets</string>
     <string name="anc_service_mode_overview">Overview</string>
     <string name="anc_service_mode_tt">TT</string>
-    <string name="app_name">Dristhi</string>
+    <string name="app_name">OpenSRP</string>
     <string name="child_register_title_in_short">Child:</string>
     <string name="child_service_mode_immunization_0_to_9">Immunization 0-9</string>
     <string name="child_service_mode_immunization_9_plus">Immunization 9+</string>
@@ -440,7 +440,7 @@
     <string name="videos_unknown_error_dialog_message">Unable to play video due to technical error.</string>
     <string name="vitamin_a">Vitamin A</string>
     <string name="yes_button_label">Yes</string>
-    <!-- From: file:/home/naveen/Documents/Project/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="CustomFontTextViewStyle" parent="@android:style/Widget.TextView">
         <item name="fontVariant">regular</item>

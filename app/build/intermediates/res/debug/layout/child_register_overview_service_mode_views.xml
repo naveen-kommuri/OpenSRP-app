@@ -50,4 +50,4 @@
             android:clickable="true"
             android:focusable="true"
             android:background="@drawable/edit_button_background"/>
-</LinearLayout><!-- From: file:/home/naveen/Documents/Project/app/src/main/res/layout/child_register_overview_service_mode_views.xml -->
+</LinearLayout><!-- From: file:/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/src/main/res/layout/child_register_overview_service_mode_views.xml -->

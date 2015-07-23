@@ -14,4 +14,4 @@
     <item
             android:state_checked="true"
             android:drawable="@color/transparent_blue_for_edit_button"/>
-</selector><!-- From: file:/home/naveen/Documents/Project/app/src/main/res/drawable/fp_modal_button_background.xml -->
+</selector><!-- From: file:/home/naveen/Documents/Project_git_hub/OpenSRP-app/app/src/main/res/drawable/fp_modal_button_background.xml -->
